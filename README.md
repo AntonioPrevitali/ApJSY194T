@@ -87,6 +87,6 @@ Kwh import = 0.00
 Kwh export = 0.00
 -------------------------
 ```
-## For further information see the doc folder
+## For further information see the doc folder and examples folder
 
 
