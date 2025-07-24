@@ -1,5 +1,6 @@
 # ApJSY194T
 Library for interfacing meter JSY-MK-194T with Arduino
+It also works very well with JSY-MK-194G as JSY-MK-194G is 100% compatible
 
 A direct approach to the meter is used without the need to know the Modbus protocol
 
@@ -89,4 +90,5 @@ Kwh export = 0.00
 ```
 ## For further information see the doc folder and examples folder
 
+## here is the website of the manufacturer of these good meters https://www.jsypowermeter.com/
 
